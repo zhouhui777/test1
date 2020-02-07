@@ -7,6 +7,10 @@ public class test {
 		System.out.println(2);
 		System.out.println("真尼玛无聊");
 		System.out.println(555);
+
 		//666666
+
+                //555555555555
+		//555
 	}
 }
