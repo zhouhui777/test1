@@ -1,1 +1,5 @@
-12345647
+package test1;
+
+public class test2{
+	
+}
